@@ -1,0 +1,101 @@
+Job_Title,Experience,Location,Skills,Salary_LPA,Job_Domain
+AI Engineer,10,Chennai,Scikit-learn,32.4,AI
+Data Scientist,8,Mumbai,Python,28.22,Data Science
+Full Stack Developer,3,Noida,PowerBI,15.11,Cybersecurity
+Data Analyst,6,Pune,AWS,14.25,Cloud
+DevOps Engineer,5,Noida,JavaScript,21.4,AI
+AI Researcher,6,Noida,Azure,22.29,Cybersecurity
+Cloud Engineer,3,Delhi,Python,12.85,AI
+Frontend Developer,5,Kolkata,Cybersecurity,18.59,Cybersecurity
+Cloud Architect,0,Noida,Python,8.06,Business Intelligence
+Frontend Developer,10,Hyderabad,SQL,27.65,Business Intelligence
+Cybersecurity Analyst,10,Pune,JavaScript,31.77,Cloud
+AI Researcher,3,Mumbai,Spark,14.91,Cloud
+Backend Developer,6,Bangalore,Python,18.84,Cybersecurity
+Data Engineer,1,Chennai,Docker,10.09,Cloud
+AI Researcher,0,Gurgaon,Java,8.08,Mobile
+Frontend Developer,10,Chennai,SQL,21.2,Cloud
+Data Analyst,0,Kolkata,Flutter,7.68,Cloud
+Data Scientist,9,Noida,PowerBI,19.26,Cloud
+ML Engineer,5,Bangalore,SQL,15.51,Web Dev
+DevOps Engineer,0,Mumbai,Scikit-learn,10.81,Data Science
+Cloud Architect,4,Delhi,Cybersecurity,13.36,Business Intelligence
+ML Engineer,7,Chennai,Spark,22.01,AI
+Data Analyst,1,Bangalore,AWS,10.73,Cybersecurity
+Cybersecurity Analyst,8,Bangalore,Flutter,20.8,AI
+Backend Developer,9,Hyderabad,Azure,30.55,AI
+DevOps Engineer,5,Pune,Java,11.19,Web Dev
+AI Researcher,3,Pune,Keras,12.29,Web Dev
+ML Engineer,2,Kolkata,React,12.99,AI
+AI Researcher,6,Delhi,Scikit-learn,18.87,Business Intelligence
+Cybersecurity Analyst,6,Hyderabad,Spark,15.56,Data Science
+Data Scientist,1,Chennai,Scikit-learn,13.39,AI
+AI Researcher,8,Bangalore,Keras,18.8,Data Science
+Data Engineer,6,Delhi,Flutter,20.3,AI
+Business Analyst,5,Hyderabad,SQL,14.77,Business Intelligence
+Business Analyst,5,Hyderabad,React,20.16,Cybersecurity
+Business Analyst,3,Delhi,Flutter,11.0,Cloud
+Full Stack Developer,10,Pune,React,31.47,Business Intelligence
+Data Analyst,0,Noida,Keras,8.31,AI
+Mobile App Developer,2,Gurgaon,JavaScript,10.5,Web Dev
+AI Researcher,1,Gurgaon,Flutter,7.8,Cybersecurity
+Mobile App Developer,3,Pune,Keras,16.09,Cybersecurity
+Cybersecurity Analyst,9,Delhi,Flutter,19.42,AI
+Frontend Developer,10,Mumbai,SQL,32.12,Data Science
+ML Engineer,4,Hyderabad,Flutter,17.23,Cybersecurity
+Full Stack Developer,5,Pune,Spark,19.36,Mobile
+Full Stack Developer,2,Gurgaon,JavaScript,13.11,Mobile
+Cloud Architect,10,Chennai,Docker,28.63,Business Intelligence
+Full Stack Developer,10,Hyderabad,Cybersecurity,18.14,Cloud
+Cybersecurity Analyst,6,Noida,Azure,20.84,Cloud
+Cloud Architect,7,Gurgaon,React,17.38,Cloud
+ML Engineer,10,Bangalore,React,30.66,AI
+Cloud Architect,7,Kolkata,Scikit-learn,22.69,Web Dev
+Frontend Developer,2,Pune,JavaScript,13.41,Cybersecurity
+Cloud Architect,10,Gurgaon,Docker,30.31,Data Science
+DevOps Engineer,1,Mumbai,Azure,11.51,Data Science
+Full Stack Developer,2,Chennai,Scikit-learn,9.17,Web Dev
+ML Engineer,8,Chennai,PowerBI,23.84,Cloud
+Cybersecurity Analyst,0,Pune,Java,8.94,AI
+Data Engineer,4,Hyderabad,TensorFlow,12.14,Cybersecurity
+ML Engineer,9,Chennai,Keras,25.25,Cloud
+Data Engineer,10,Noida,AWS,19.93,Cloud
+Business Analyst,2,Mumbai,Python,10.65,Data Science
+Data Analyst,3,Bangalore,Python,10.3,Web Dev
+Cloud Engineer,3,Bangalore,Keras,12.56,Mobile
+DevOps Engineer,10,Kolkata,Azure,19.05,Business Intelligence
+Cybersecurity Analyst,0,Kolkata,SQL,7.68,Web Dev
+Cybersecurity Analyst,8,Mumbai,Keras,18.61,Data Science
+Data Analyst,5,Gurgaon,JavaScript,18.13,Data Science
+AI Engineer,10,Bangalore,JavaScript,24.73,Cloud
+Cloud Architect,1,Bangalore,Docker,11.47,AI
+Mobile App Developer,8,Pune,TensorFlow,20.21,Mobile
+Backend Developer,7,Kolkata,PowerBI,22.05,Mobile
+Cybersecurity Analyst,1,Bangalore,PowerBI,8.73,Cloud
+Cloud Architect,1,Mumbai,JavaScript,10.23,Mobile
+Backend Developer,5,Mumbai,Keras,15.83,Business Intelligence
+Cloud Architect,7,Kolkata,React,23.91,Mobile
+Cloud Architect,2,Mumbai,PowerBI,11.41,Mobile
+AI Researcher,7,Hyderabad,Scikit-learn,20.16,Cybersecurity
+Cloud Architect,8,Delhi,Docker,22.85,Data Science
+Business Analyst,10,Kolkata,PowerBI,30.56,AI
+AI Engineer,7,Bangalore,Keras,19.2,AI
+AI Engineer,10,Mumbai,TensorFlow,19.48,Business Intelligence
+AI Engineer,9,Kolkata,AWS,30.66,Cybersecurity
+Business Analyst,4,Bangalore,TensorFlow,17.28,Cloud
+Business Analyst,6,Noida,Java,13.04,Business Intelligence
+Backend Developer,6,Bangalore,Java,19.37,Data Science
+Cybersecurity Analyst,10,Bangalore,Docker,31.17,Mobile
+Data Scientist,9,Gurgaon,Flutter,25.78,Cloud
+DevOps Engineer,7,Kolkata,JavaScript,25.94,Business Intelligence
+Cloud Architect,3,Chennai,AWS,11.93,Web Dev
+Mobile App Developer,4,Gurgaon,Scikit-learn,14.27,Cybersecurity
+Business Analyst,1,Gurgaon,Cybersecurity,8.26,Cybersecurity
+Mobile App Developer,3,Bangalore,SQL,12.25,Cybersecurity
+AI Engineer,7,Chennai,Flutter,23.87,AI
+Full Stack Developer,2,Pune,Keras,12.13,AI
+Full Stack Developer,5,Gurgaon,TensorFlow,19.98,Cloud
+ML Engineer,10,Bangalore,Cybersecurity,29.94,Cloud
+Full Stack Developer,7,Bangalore,React,19.41,Cybersecurity
+Data Analyst,3,Hyderabad,Flutter,12.99,Business Intelligence
+Data Analyst,2,Gurgaon,Azure,8.5,Cloud
